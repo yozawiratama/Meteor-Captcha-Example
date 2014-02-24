@@ -1,0 +1,30 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "VisualCaptcha": {
+        "version": "1.0.3"
+      },
+      "iron-router": {
+        "version": "0.6.4"
+      }
+    },
+    "packages": {
+      "VisualCaptcha": {
+        "git": "https://github.com/emotionLoop/visualCaptcha-meteorite.git",
+        "tag": "v1.0.3",
+        "commit": "f4f03de4589aaba2f150583f749d55a6f9ae2f0a"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.6.4",
+        "commit": "927bbaed1b87894fb6fb70807f74ff3a5bd89f29"
+      },
+      "npm": {
+        "git": "https://github.com/arunoda/meteor-npm.git",
+        "tag": "v0.2.6",
+        "commit": "177ab6118de5bf8cffb19481343d5762ff7a2aaf"
+      }
+    }
+  }
+}
