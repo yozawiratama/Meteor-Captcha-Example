@@ -1,7 +1,6 @@
 {
   "packages": {
     "VisualCaptcha": {},
-    "iron-router": {},
-    "router": {}
+    "iron-router": {}
   }
 }
