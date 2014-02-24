@@ -1,0 +1,27 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "captcha": {
+        "version": "0.0.6"
+      }
+    },
+    "packages": {
+      "captcha": {
+        "git": "https://github.com/andi-bute/captcha-meteor.git",
+        "tag": "v0.0.6",
+        "commit": "3437561e7ec9a8f6639749b0de4b3c984c7d03a9"
+      },
+      "npm": {
+        "git": "https://github.com/arunoda/meteor-npm.git",
+        "tag": "v0.2.6",
+        "commit": "177ab6118de5bf8cffb19481343d5762ff7a2aaf"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.6.2",
+        "commit": "ce56e58b45624dce992490f3a1c10f10d3948bae"
+      }
+    }
+  }
+}
